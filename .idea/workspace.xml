@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dee0ceec-2f40-41ae-84a2-0da557ee8f12" name="Default" comment="" />
+    <list default="true" id="dee0ceec-2f40-41ae-84a2-0da557ee8f12" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/pluralsight-python-standard-library.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/try_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copy-tkinter_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/copy-tkinter_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tkinter_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/tkinter_file.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tkinter_file.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tkinter_file.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tkinter_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+            <state relative-caret-position="680">
+              <caret line="79" column="54" lean-forward="true" selection-start-line="79" selection-start-column="54" selection-end-line="79" selection-end-column="54" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -86,8 +92,8 @@
       <file leaf-file-name="copy-tkinter_file.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/copy-tkinter_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            <state relative-caret-position="597">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -100,6 +106,27 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="278">
               <caret line="1128" column="31" lean-forward="true" selection-start-line="1128" selection-start-column="31" selection-end-line="1128" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pluralsight-python-standard-library.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pluralsight-python-standard-library.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try_csv.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/try_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -133,8 +160,11 @@
         <option value="$PROJECT_DIR$/regular_expressions.py" />
         <option value="$PROJECT_DIR$/sys_module_practice.py" />
         <option value="$PROJECT_DIR$/extract.py" />
-        <option value="$PROJECT_DIR$/copy-tkinter_file.py" />
         <option value="$PROJECT_DIR$/tkinter_file.py" />
+        <option value="$PROJECT_DIR$/copy-tkinter_file.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/pluralsight-python-standard-library.py" />
+        <option value="$PROJECT_DIR$/try_csv.py" />
       </list>
     </option>
   </component>
@@ -202,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tkinter_file">
+  <component name="RunManager" selected="Python.try_csv">
     <configuration name="copy-tkinter_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_Pycharm_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,7 +269,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="time_and_date_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pluralsight-python-standard-library" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_Pycharm_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -251,8 +281,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_and_date_module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pluralsight-python-standard-library.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,18 +305,23 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Unittests in testy.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="try_csv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="my_Pycharm_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testy.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try_csv.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
     </configuration>
     <configuration name="myunittest" type="tests" factoryName="Unittests">
       <module name="my_Pycharm_workspace" />
@@ -306,19 +340,19 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.myunittest" />
-      <item itemvalue="Python.time_and_date_module" />
       <item itemvalue="Python.extract" />
-      <item itemvalue="Python tests.Unittests in testy.py" />
       <item itemvalue="Python.tkinter_file" />
       <item itemvalue="Python.copy-tkinter_file" />
+      <item itemvalue="Python.pluralsight-python-standard-library" />
+      <item itemvalue="Python.try_csv" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.try_csv" />
+        <item itemvalue="Python.pluralsight-python-standard-library" />
         <item itemvalue="Python.tkinter_file" />
         <item itemvalue="Python.copy-tkinter_file" />
         <item itemvalue="Python.extract" />
-        <item itemvalue="Python tests.Unittests in testy.py" />
-        <item itemvalue="Python.time_and_date_module" />
       </list>
     </recent_temporary>
   </component>
@@ -371,10 +405,11 @@
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19178082" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19178082" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5063966" side_tool="true" weight="0.25860372" />
-      <window_info id="Run" order="3" weight="0.44942045" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32940018" />
+      <window_info active="true" id="Run" order="3" visible="true" weight="0.5795574" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Python Console" order="2" sideWeight="0.4936034" weight="0.32942328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -390,7 +425,6 @@
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="right" id="SciView" order="1" />
-      <window_info anchor="bottom" id="Find" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,30 +442,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sys_module_practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/regular_expressions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/time_and_date_module.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
@@ -787,16 +797,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/copy-tkinter_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/extract.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -811,13 +811,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file.py">
+    <entry file="file://$PROJECT_DIR$/copy-tkinter_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        <state relative-caret-position="597">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkinter_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="79" column="54" lean-forward="true" selection-start-line="79" selection-start-column="54" selection-end-line="79" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pluralsight-python-standard-library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

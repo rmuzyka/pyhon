@@ -30,6 +30,13 @@ mainframe.grid(column=0, row=0, sticky=(N, W, E, S))
 mainframe.columnconfigure(0, weight=1)
 mainframe.rowconfigure(0, weight=1)
 
+onevar = BooleanVar()
+twovar = BooleanVar()
+onevar.set(True)
+twovar.set(False)
+one = ttk.Checkbutton(mainframe, text='one', variable=onevar, onvalue=True)
+two = ttk.Checkbutton(mainframe, text='two', variable=twovar, onvalue=True)
+
 steps = StringVar()
 meters = StringVar()
 is_child = StringVar()
